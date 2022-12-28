@@ -7,6 +7,7 @@ section {
     font-size: 14px;
     margin-left: 8px;
     min-width: 120px;
+    color: red;
   }
   
   .example-button-row {
@@ -31,7 +32,7 @@ section {
   }
   
 
-  
+
   table {
     width: 100%;
   }
